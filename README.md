@@ -47,8 +47,9 @@ We focus on long-term, meaningful hiring rather than mass recruitment.
 If you are interested, please reach out with:
 - Your GitHub profile
 - A short note about your experience
-
-📧 **Email:** rojgargroup.cv@gmail.com  
+📧 Forward resume: hr@rojgargroup.com (mentioned job title in the subject)
+Application form link: https://www.rojgargroup.com/apply-it-jobs-submit-resume
+Please share your GitHub profile and a brief summary of your experience.
 🌐 **Website:** https://www.rojgargroup.com  
 🔗 **LinkedIn:** https://www.linkedin.com/company/rojgargroup
 
@@ -56,41 +57,3 @@ If you are interested, please reach out with:
 
 > This repository is intended for sharing engineering opportunities only.
 > Please avoid spam or unrelated promotions.
->
-> ---
-
-## 📌 Current Open Positions
-
-### 🧑‍💻 Python Developer
-**Location:** Mumbai / Pune  
-**Experience:** 3–5 years  
-
-**Tech Stack:**
-- Python
-- Django / FastAPI / Flask (any)
-- Cloud AWS / Azure (any)
-- REST APIs
-- PostgreSQL / MySQL
-
-**What we are looking for:**
-- Strong hands-on experience with Python backend development
-- Experience building APIs and working with databases
-- Good understanding of clean code and best practices
-
----
-
-### 🧑‍🏗️ Solution Architect
-**Location:** Bangalore  
-**Experience:** 8+ years  
-
-**Tech Stack:**
-- System Design
-- Cloud (AWS / Azure)
-- Microservices
-- Backend & Integration Architecture
-
-**What we are looking for:**
-- Strong experience designing scalable systems
-- Ability to work with engineering and business teams
-- Experience with cloud-native architectures
-

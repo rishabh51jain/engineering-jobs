@@ -1,6 +1,6 @@
 # Python Backend Developer
 
-**Location:** Mumbai / Remote  
+**Location:** Mumbai & Pune / Remote  
 **Employment Type:** Full Time  
 
 ---
